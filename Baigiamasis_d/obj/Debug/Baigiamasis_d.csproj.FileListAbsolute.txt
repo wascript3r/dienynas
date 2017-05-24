@@ -1,0 +1,25 @@
+C:\Users\Mantas\Desktop\Programavimas\Visual Studio projektai\Baigiamasis_d\bin\Debug\Baigiamasis_d.exe.config
+C:\Users\Mantas\Desktop\Programavimas\Visual Studio projektai\Baigiamasis_d\bin\Debug\Baigiamasis_d.exe
+C:\Users\Mantas\Desktop\Programavimas\Visual Studio projektai\Baigiamasis_d\bin\Debug\Baigiamasis_d.pdb
+C:\Users\Mantas\Desktop\Programavimas\Visual Studio projektai\Baigiamasis_d\bin\Debug\MySql.Data.dll
+C:\Users\Mantas\Desktop\Programavimas\Visual Studio projektai\Baigiamasis_d\obj\Debug\Baigiamasis_d.Properties.Resources.resources
+C:\Users\Mantas\Desktop\Programavimas\Visual Studio projektai\Baigiamasis_d\obj\Debug\Baigiamasis_d.csproj.GenerateResource.Cache
+C:\Users\Mantas\Desktop\Programavimas\Visual Studio projektai\Baigiamasis_d\obj\Debug\Baigiamasis_d.exe
+C:\Users\Mantas\Desktop\Programavimas\Visual Studio projektai\Baigiamasis_d\obj\Debug\Baigiamasis_d.pdb
+C:\Users\Mantas\Desktop\Programavimas\Visual Studio projektai\Baigiamasis_d\obj\Debug\Baigiamasis_d.csprojResolveAssemblyReference.cache
+C:\Users\Mantas\Desktop\Programavimas\Visual Studio projektai\Baigiamasis_d\obj\Debug\Baigiamasis_d.Prisijungimas.resources
+C:\Users\Mantas\Desktop\Programavimas\Visual Studio projektai\Baigiamasis_d\obj\Debug\Baigiamasis_d.VVP.resources
+C:\Users\Mantas\Desktop\Programavimas\Visual Studio projektai\Baigiamasis_d\obj\Debug\Baigiamasis_d.Registracija.resources
+C:\Users\Mantas\Desktop\Programavimas\C++ C#\Baigiamasis_d\bin\Debug\Baigiamasis_d.exe.config
+C:\Users\Mantas\Desktop\Programavimas\C++ C#\Baigiamasis_d\obj\Debug\Baigiamasis_d.exe
+C:\Users\Mantas\Desktop\Programavimas\C++ C#\Baigiamasis_d\obj\Debug\Baigiamasis_d.pdb
+C:\Users\Mantas\Desktop\Programavimas\C++ C#\Baigiamasis_d\bin\Debug\Baigiamasis_d.exe
+C:\Users\Mantas\Desktop\Programavimas\C++ C#\Baigiamasis_d\bin\Debug\Baigiamasis_d.pdb
+C:\Users\Mantas\Desktop\Programavimas\C++ C#\Baigiamasis_d\bin\Debug\MySql.Data.dll
+C:\Users\Mantas\Desktop\Programavimas\C++ C#\Baigiamasis_d\obj\Debug\Baigiamasis_d.csprojResolveAssemblyReference.cache
+C:\Users\Mantas\Desktop\Programavimas\C++ C#\Baigiamasis_d\obj\Debug\Baigiamasis_d.Prisijungimas.resources
+C:\Users\Mantas\Desktop\Programavimas\C++ C#\Baigiamasis_d\obj\Debug\Baigiamasis_d.Properties.Resources.resources
+C:\Users\Mantas\Desktop\Programavimas\C++ C#\Baigiamasis_d\obj\Debug\Baigiamasis_d.Registracija.resources
+C:\Users\Mantas\Desktop\Programavimas\C++ C#\Baigiamasis_d\obj\Debug\Baigiamasis_d.VVP.resources
+C:\Users\Mantas\Desktop\Programavimas\C++ C#\Baigiamasis_d\obj\Debug\Baigiamasis_d.csproj.GenerateResource.Cache
+C:\Users\Mantas\Desktop\Programavimas\C++ C#\Baigiamasis_d\obj\Debug\Baigiamasis_d.Pradzia.resources
